@@ -1,7 +1,8 @@
 
-# Tanzanian Wells
 
-#### Authors: Gideon
+# Real Estate Consulting for King County
+
+#### Authors: Charlie, Gideon, Max
 
 ## Overview
 
@@ -90,4 +91,4 @@ We would like to explore more about the inferential side of the data to see whic
 ├── README.md
 ├── EDA.ipynb
 |-- WellsExploratoryNotebook.ipynb
-```
+```# WellProject
