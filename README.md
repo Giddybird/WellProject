@@ -1,8 +1,8 @@
 
 
-# Real Estate Consulting for King County
+# Tazanian Well Project
 
-#### Authors: Charlie, Gideon, Max
+#### Authors: Gideon
 
 ## Overview
 
